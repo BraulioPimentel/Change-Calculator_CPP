@@ -1,0 +1,27 @@
+﻿  DecideChangeProject.cpp
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(10,54): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(37,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(49,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(61,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(73,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(85,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(112,9): warning C4551: function call missing argument list
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(130,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(132,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(135,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(136,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(139,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(140,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(143,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(144,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(147,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(148,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(151,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(152,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(155,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(156,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(159,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(160,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(163,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\GitHub\Random NOT REPO\DecideChangeProject\DecideChangeProject.cpp(164,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  DecideChangeProject.vcxproj -> E:\GitHub\Random NOT REPO\DecideChangeProject\x64\Debug\DecideChangeProject.exe
